@@ -15,6 +15,20 @@
 
 ## * Image Data Loading and Transformation
 
+## * Tensorflow Dataset Object Creation
+
+## * Convolutional Neural Network
+   ### ResNet 
+   
+## * Building ResNet50 Model
+
+## * Model Training
+
+## * Results Interpretation
+
+## * Model Evaluation on Test Dataset
+
+## * Future Work
 
 
 
