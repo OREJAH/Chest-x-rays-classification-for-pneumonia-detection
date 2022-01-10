@@ -1,7 +1,15 @@
 # Chest-x-rays-classification-for-pneumonia-detection
-This is my undergraduate project.
 
-# Review of the Project
+# Table of Contents
+
+## * Review of the Project
+
+## * Project Environment Set Up
+
+## * Dataset
+   ###  ~ Overview
+   ###  ~ Task
+   ###  ~ Access
 
 ## License
 
