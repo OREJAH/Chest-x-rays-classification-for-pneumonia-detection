@@ -17,8 +17,7 @@
 
 ## * Tensorflow Dataset Object Creation
 
-## * Convolutional Neural Network
-   ### ResNet 
+## * Convolutional Neural Network (ResNets)
    
 ## * Building ResNet50 Model
 
@@ -36,7 +35,7 @@
 In this project, a binary classification model will be built using chest x-ray images. This classification system is targeted at children, adults over the age of 65 and other individuals with underlying respiratory illness. There is a scarce availability of healthcare practitioners and radiologists around the globe whose prediction on pneumonia cases matter greatly. Therefore, the deep learning model using Convolutional Neural Network (CNN) would give an higher accuracy in the prediction of pneumonia and it will further stand as a prelude to serve as a better model for other life-threatening illnesses.
 
 ## * Project Environment Set Up
-The models that will be utilized in this project are large and may take a long time to execute on a standard CPU.
+Google Colaboratory is a free online cloud-based Jupyter notebook environment where machine learning and deep learning models can be trained on CPUs, GPUs, and TPUs. Since the models that will be utilized in this project are large and may take a long time to execute on a standard CPU, I'll be making use of CUDA-enabled GPU to help the models get trained faster.
 
 . Create a Google CoLab notebook: CoLab is a Google Research 
 
