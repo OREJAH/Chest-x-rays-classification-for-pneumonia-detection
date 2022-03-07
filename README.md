@@ -47,7 +47,7 @@ Google Colaboratory is a free online cloud-based Jupyter notebook environment wh
 . Connecting the GPU: On the top right of the notebook, click on the 'connect' option as this will connect to a virtual machine with GPU. Once it is connected, you'll then be able to see the amount of RAM and storage available to execute our python codes.
 
 ## Dataset
-
+The dataset used for this project is gotten from
 
 
 ## License
