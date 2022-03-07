@@ -49,7 +49,7 @@ Google Colaboratory is a free online cloud-based Jupyter notebook environment wh
 ## Dataset
 The dataset used for this project is gotten from
 
-This dataset consi
+This dataset comprises chest x-ray images, some of which contain chest x-rays that do not show pneumonia.
 
 ## License
 
