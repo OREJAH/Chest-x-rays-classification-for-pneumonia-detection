@@ -49,16 +49,15 @@ Google Colaboratory is a free online cloud-based Jupyter notebook environment wh
 ## Dataset
 
 ###  ~ Overview
-
-The dataset used for this project is gotten from Kaggles repository and can be found in this [link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
-
 This dataset comprises chest x-ray images, some of which contain chest x-rays that do not show pneumonia. We have three types of chest x-rays present in the dataset: normal chest x-rays, bacterial chest x-rays, and viral pneumonia chest x-rays. 
 There are no white clouds on normal chest x-rays. Bacterial pneumonia chest x-rays have focal white clouds while viral pneumonia chest x-rays shows more widespread white clouds.
 
  ###  ~ Task
  The goal of this project is to identify the chest x-rays that are affected by pneumonia.
  
- 
+ ###  ~ Access
+ The dataset used for this project is gotten from Kaggles repository and can be found in this [link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+
 ## License
 
 See the [LICENSE](https://github.com/OREJAH/Chest-x-rays-classification-for-pneumonia-detection/blob/main/LICENSE.md) file for license rights and limitations.
