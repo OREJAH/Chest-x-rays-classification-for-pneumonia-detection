@@ -47,6 +47,9 @@ Google Colaboratory is a free online cloud-based Jupyter notebook environment wh
 . Connecting the GPU: On the top right of the notebook, click on the 'connect' option as this will connect to a virtual machine with GPU. Once it is connected, you'll then be able to see the amount of RAM and storage available to execute our python codes.
 
 ## Dataset
+
+###  ~ Overview
+
 The dataset used for this project is gotten from Kaggles repository and can be found in this [link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
 This dataset comprises chest x-ray images, some of which contain chest x-rays that do not show pneumonia. We have three types of chest x-rays present in the dataset: normal chest x-rays, bacterial chest x-rays, and viral pneumonia chest x-rays.
