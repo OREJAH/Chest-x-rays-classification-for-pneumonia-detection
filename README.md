@@ -63,6 +63,57 @@ There are several methods for importing data into jupyter notebooks. For this pr
 
 
 
+
+## * Image Data Loading and Transformation
+
+
+
+
+
+
+## * Tensorflow Dataset Object Creation
+
+
+
+
+
+
+
+
+## * Convolutional Neural Network (ResNets)
+
+
+
+
+   
+## * Building ResNet50 Model
+
+
+
+
+
+
+## * Model Training
+
+
+
+
+
+## * Results Interpretation
+
+
+
+
+
+
+## * Model Evaluation on Test Dataset
+
+
+
+
+
+## * Future Work
+
  
  
  
