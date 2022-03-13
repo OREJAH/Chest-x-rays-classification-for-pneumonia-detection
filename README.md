@@ -61,7 +61,7 @@ There are no white clouds on normal chest x-rays. Bacterial pneumonia chest x-ra
 ## * Dataset Collection and Processing
 There are several methods for importing data into jupyter notebooks. For this project, the Kaggle dataset was downloaded and uploaded to Dropbox, a cloud storage service. The dataset may be downloaded into the notebook with only one line of code.
 
-**wget** is used to access files through http or https. The exclamation mark **!** is a command that tells the Linux terminal to run this line. The dataset is then downloaded as a zip file. To unzip the zip file, we use the ** !unzip  -q  "archive.zip" **
+**wget** is used to access files through http or https. The exclamation mark **!** is a command that tells the Linux terminal to run this line. The dataset is then downloaded as a zip file. To unzip the zip file, we use the !unzip  -q  "archive.zip"
 
 ## * Image Data Loading and Transformation
 
