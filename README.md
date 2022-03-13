@@ -60,7 +60,7 @@ There are no white clouds on normal chest x-rays. Bacterial pneumonia chest x-ra
  
 ## * Dataset Collection and Processing
 There are several methods for importing data into jupyter notebooks. For this project, the Kaggle dataset was downloaded and uploaded to Dropbox, a cloud storage service. The dataset may be downloaded into the notebook with only one line of code.
-
+**wget** 
 
 
 ## * Image Data Loading and Transformation
