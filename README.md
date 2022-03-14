@@ -67,6 +67,7 @@ To get the project off to a good start, all of the libraries needed for the comp
 > import tensorflow as tf
 > import numpy as np
 > import matplotlib.pyplot as plt
+> from pathlib import path
 
 ## * Image Data Loading and Transformation
 
