@@ -63,6 +63,8 @@ There are several methods for importing data into jupyter notebooks. For this pr
 
 **wget** is used to access files through http or https. The exclamation mark **!** is a command that tells the Linux terminal to run this line. The dataset is then downloaded as a zip file. To unzip the zip file, we use the !unzip  -q  "archive.zip"
 
+To get the project off to a good start, all of the essential libraries will be imported.
+
 ## * Image Data Loading and Transformation
 
 
