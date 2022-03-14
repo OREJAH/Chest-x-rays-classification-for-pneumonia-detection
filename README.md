@@ -65,6 +65,7 @@ There are several methods for importing data into jupyter notebooks. For this pr
 
 To get the project off to a good start, all of the libraries needed for the completion of this project will be imported. They are:
 > import tensorflow as tf
+> import numpy as np
 
 ## * Image Data Loading and Transformation
 
