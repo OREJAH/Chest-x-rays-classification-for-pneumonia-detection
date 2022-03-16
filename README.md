@@ -75,7 +75,7 @@ To get the project off to a good start, all of the libraries needed for the comp
      > from pathlib import path
 
 ### Processing
-Creation of pathlib path objects 
+Creation of pathlib path objects. 
 
 
 ## * Image Data Loading and Transformation
