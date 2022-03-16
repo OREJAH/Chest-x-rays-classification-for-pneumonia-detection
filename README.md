@@ -59,19 +59,22 @@ There are no white clouds on normal chest x-rays. Bacterial pneumonia chest x-ra
  The goal of this project is to identify the chest x-rays that are affected by pneumonia.
  
 ## * Dataset Collection and Processing
+### Collection
 There are several methods for importing data into jupyter notebooks. For this project, the Kaggle dataset was downloaded and uploaded to Dropbox, a cloud storage service. The dataset may be downloaded into the notebook with only one line of code.
 
 **wget** is used to access files through http or https. The exclamation mark **!** is a command that tells the Linux terminal to run this line. The dataset is then downloaded as a zip file. To unzip the zip file, we use the !unzip  -q  "archive.zip"
 
 To get the project off to a good start, all of the libraries needed for the completion of this project will be imported. They are:
 
-     > import tensorflow as tf
+     > import tensorflow as tf 
      
      > import numpy as np
      
      > import matplotlib.pyplot as plt
      
      > from pathlib import path
+
+### Processing
 
 ## * Image Data Loading and Transformation
 
