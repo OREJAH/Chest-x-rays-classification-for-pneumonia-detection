@@ -78,7 +78,7 @@ Then, the global random seed is set to 4.
      > tf.random.set_seed(4)
      
 ### Processing
-Creation of pathlib path objects. 
+Creation of pathlib path objects for the train, test and validation directories.
 
 
 ## * Image Data Loading and Transformation
