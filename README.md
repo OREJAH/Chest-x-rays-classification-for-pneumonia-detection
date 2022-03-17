@@ -73,7 +73,9 @@ To get the project off to a good start, all of the libraries needed for the comp
      > import matplotlib.pyplot as plt
      
      > from pathlib import path
-
+Then, the global random seed is set to 4.
+     
+     > 
 ### Processing
 Creation of pathlib path objects. 
 
