@@ -80,6 +80,7 @@ Then, the global random seed is set to 4.
 ### Processing
 Creation of pathlib path objects for the train, test and validation directories.
 
+     > train_path = path("chest_xray/train/")
 
 ## * Image Data Loading and Transformation
 
