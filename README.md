@@ -82,6 +82,7 @@ Creation of pathlib path objects for the train, test and validation directories.
 
      > train_path = path("chest_xray/train/")
      > validation_path =path("chest_xray/val")
+     > test_path = path("chest_xray/test")
      
 ## * Image Data Loading and Transformation
 
