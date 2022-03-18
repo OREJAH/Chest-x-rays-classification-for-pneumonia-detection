@@ -84,7 +84,9 @@ Creation of pathlib path objects for the train, test and validation directories.
      > validation_path =path("chest_xray/val")
      > test_path = path("chest_xray/test")
      
-After crating the pathlib data, glob method is then used.  
+After creating the pathlib data, glob method is then used.  
+All the paths inside the noraml and pneumonia folders are therefore collected using glob.
+
 ## * Image Data Loading and Transformation
 
 
