@@ -87,6 +87,8 @@ Creation of pathlib path objects for the train, test and validation directories.
 After creating the pathlib data, glob method is then used.  
 All the paths inside the noraml and pneumonia folders are therefore collected using glob.
 
+     > train_image_paths = train.path.glob("*/*")
+
 ## * Image Data Loading and Transformation
 
 
