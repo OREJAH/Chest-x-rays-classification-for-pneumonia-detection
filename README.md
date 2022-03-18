@@ -90,7 +90,9 @@ All the paths inside the noraml and pneumonia folders are therefore collected us
      > train_image_paths = train.path.glob("*/*")
      > val_image_paths = validation_path.glob("*/*")
 
-To see how the training image looks like,  >  print(train_image_paths)
+To see how the training image looks like:
+     >  print(train_image_paths)
+     
 ## * Image Data Loading and Transformation
 
 
