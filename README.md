@@ -97,7 +97,7 @@ Pathlib's glob method returns a generator objectwhen the training image path are
 ## * Image Data Loading and Transformation
 
 ### Loading
-
+Various libraries exist to load picture paths as a vector of pixels.
 The dataset gotten is then loaded 
 
 
