@@ -95,7 +95,7 @@ Pathlib's glob method returns a generator objectwhen the training image path are
      >  print(train_image_paths)
      
 ## * Image Data Loading and Transformation
-The data gotten is then loaded 
+The dataset gotten is then loaded 
 
 
 
