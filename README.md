@@ -110,11 +110,7 @@ The images will be directly loaded using Tensorflow.
 
 
 
-
-
-
-## * Convolutional Neural Network (ResNets)
-
+ 
 
 
 
