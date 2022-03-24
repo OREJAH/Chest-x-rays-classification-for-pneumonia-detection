@@ -16,8 +16,6 @@
 ## * Image Data Loading and Transformation
 
 ## * Tensorflow Dataset Object Creation
-
-## * Convolutional Neural Network (ResNets)
    
 ## * Building ResNet50 Model
 
