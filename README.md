@@ -25,7 +25,7 @@
 
 ## * Model Evaluation on Test Dataset
 
-## * Future Work
+## *  Recommendations
 <br>
 <br/>
 <br> <br/>
