@@ -139,7 +139,7 @@ The images will be directly loaded using Tensorflow.
 
 
 
-## * Future Work
+## *  Recommendations
 
  
  
