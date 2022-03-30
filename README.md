@@ -100,7 +100,7 @@ The images will be directly loaded using Tensorflow.
 
 
 
-### Trans
+### Transformation
 
 ## * Tensorflow Dataset Object Creation
 
