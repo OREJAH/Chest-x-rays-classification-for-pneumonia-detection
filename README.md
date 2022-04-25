@@ -94,14 +94,13 @@ Pathlib's glob method returns a generator objectwhen the training image path are
      
 ## * Image Data Loading and Transformation
 
-Various libraries exist to load picture paths as a vector of pixels. Tensorflow's most recent version now allows you to load pictures directly.
+Various libraries exist to load picture paths as a vector of pixels. Tensorflow's most recent version now allows you to load pictures directly. In this section, the load_and_transform function is created and takes in several arguments.
 
 The **TENSORFLOW.IO.READ_FILE** function accepts a file path as a string input and returns an encoded string of that file once it has been read. Because the images in this project are in JPEG format, we utilize the function TENSORFLOW.IO.DECODE_JPEG.
 
 The function **TENSORFLOW.IMAGE.RESIZE** resizes the tensor using two arguments:
  - *images* which is the tensor returned by the decode function
  - *size* which is the size to which it must be resized, since ResNet50 is being used for this project, the images have been resized to 224.
- - 
 It further takes an argument named *method*, which specifies the techniques used to interpolate the pixels whether they are compressed or expanded.
 
 Next, a data augmentation function (**TENSORFLOW.IMAGE.RANDOM_FLIP_LEFT_RIGHT**) is used as it helps to replace the current picture with an alternate version of the same image. Because the model is searching in seven distinct regions, it is able to generalize better over photos.
