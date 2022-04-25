@@ -100,6 +100,10 @@ Various libraries exist to load picture paths as a vector of pixels. Tensorflow'
 
 The TENSORFLOW.IO.READ_FILE function accepts a file path as a string input and returns an encoded string of that file once it has been read. Because the images in this project are in JPEG format, we utilize the function TENSORFLOW.IO.DECODE_JPEG.
 
+The function TENSORFLOW.IMAGE.RESIZE resizes the tensor using two arguments:
+ - **images** which is the tensor returned by the decode function
+ - **size** which is the size to which it must be resized
+It further takes an argument named **method**, which specifies the techniques used to interpolate the pixels whether they are compressed or expanded.
 
 
 
