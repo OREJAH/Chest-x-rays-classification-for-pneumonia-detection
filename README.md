@@ -98,6 +98,9 @@ Pathlib's glob method returns a generator objectwhen the training image path are
 
 Various libraries exist to load picture paths as a vector of pixels. Tensorflow's most recent version now allows you to load pictures directly.
 
+Because the images in this project are in JPEG format, we utilize the function TENSORFLOW.IO.DECODE_JPEG.
+
+
 
 
 ### Transformation
