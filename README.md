@@ -108,6 +108,7 @@ Finally, we restore the tensor to its original label.
 
 ## * Tensorflow Dataset Object Creation
 
+The Tensorflow dataset API allows us to create customized and efficient input pipelines.
 
 
 
