@@ -109,7 +109,7 @@ Finally, we restore the tensor to its original label.
 ## * Tensorflow Dataset Object Creation
 
 The Tensorflow dataset API allows us to create customized and efficient input pipelines. The **Get_dataset** function is constructed, and it accepts three arguments: image paths, labels, and the state of processing, which is either training or not. Then, using the *convert_to_tensor* method, the list of paths and labels is turned into tensorflow tensors.
-Next, for each path and label, we build a dataset object using *from_tensor_slices* method. Then zip both 
+Next, for each path and label, we build a dataset object using *from_tensor_slices* method. Then zip the two dataset objects and apply random shuffle.
 
 
 
