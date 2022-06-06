@@ -17,16 +17,12 @@
 ## * Dataset Collection and Processing
 
 ## * Image Data Loading and Transformation
-
-## * Tensorflow Dataset Object Creation
    
 ## * Building ResNet50 Model
 
 ## * Model Training
 
 ## * Results Interpretation
-
-## * Model Evaluation on Test Dataset
 
 ## *  Recommendations
 <br>
@@ -36,6 +32,12 @@
 ## * Review of the Project
 
 In this project, a binary classification model will be built using chest x-ray images. This classification system is targeted at children, adults over the age of 65 and other individuals with underlying respiratory illness. There is a scarce availability of healthcare practitioners and radiologists around the globe whose prediction on pneumonia cases matter greatly. Therefore, this deep learning model using Convolutional Neural Network (CNN) would give an higher accuracy in the prediction of pneumonia and it will further stand as a prelude to serve as a better model for other life-threatening illnesses.
+
+## * Summary
+   ### ~ Statement of the problem
+   
+   
+   ### ~ Solution
 
 ## * Project Environment Set Up
 Google Colaboratory is a free online cloud-based Jupyter notebook environment where machine learning and deep learning models can be trained on CPUs, GPUs, and TPUs. Since the models that will be utilized in this project are large and may take a long time to execute on a standard CPU, I'll be making use of Colab's CUDA-enabled GPU to help the models get trained faster.
@@ -109,17 +111,13 @@ It further takes an argument named *method*, which specifies the techniques used
 Next, a data augmentation function (**TENSORFLOW.IMAGE.RANDOM_FLIP_LEFT_RIGHT**) is used as it helps to replace the current picture with an alternate version of the same image. Because the model is searching in seven distinct regions, it is able to generalize better over photos.
 Finally, we restore the tensor to its original label.
 
-## * Tensorflow Dataset Object Creation
-
-The Tensorflow dataset API allows us to create customized and efficient input pipelines. The **Get_dataset** function is constructed, and it accepts three arguments: image paths, labels, and the state of processing, which is either training or not. Then, using the *convert_to_tensor* method, the list of paths and labels is turned into tensorflow tensors.
-Next, for each path and label, we build a dataset object using *from_tensor_slices* method. Then zip the two dataset objects and apply random shuffle.
-
-
-
-   
 ## * Building ResNet50 Model
 
+After the **Get_dataset** function is constructed, and it accepts three arguments: image paths, labels, and the state of processing, which is either training or not, then, we use the *convert_to_tensor* method, thsi helps the list of paths and labels to be turned into tensorflow tensors. Next, for each path and label, we build a dataset object using *from_tensor_slices* method. Then zip the two dataset objects and apply random shuffle.
 
+
+
+    
 
 
 
@@ -131,14 +129,6 @@ Next, for each path and label, we build a dataset object using *from_tensor_slic
 
 
 ## * Results Interpretation
-
-
-
-
-
-
-## * Model Evaluation on Test Dataset
-
 
 
 
