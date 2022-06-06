@@ -4,9 +4,9 @@
 ## * Review of the Project
 
 ## Summary
-  > Statement of the problem
-  > Solution
- 
+> Statement of the problem
+> Solution
+
 ## * Review of the Project
 ## * Project Environment Set Up
 
