@@ -35,8 +35,10 @@ In this project, a binary classification model will be built using chest x-ray i
 
 ## * Summary
    ### ~ Statement of the problem
-   
-   
+Pneumonia is a contagious disease that has been observed to be the biggest cause of child death in Nigeria, killing more than 162,000 children under the age of five in 2018, of more than 18 children per hour.
+There is a lack of intensive longitudinal monitoring systems that helps in measuring the impact of preventive measures in children by addressing underlying causes of pneumonia. Similarly, there is a lack of strong and equitable health systems to adequately prevent, diagnose and treat pneumonia, and provide children with their basic human right to good-quality healthcare.
+As a result of the aforementioned observations, there is a need to build a classification model for pneumonia detection using x-rays.
+
    ### ~ Solution
 
 ## * Project Environment Set Up
