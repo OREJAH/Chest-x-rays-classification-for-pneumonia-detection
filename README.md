@@ -1,4 +1,4 @@
-# Chest-x-rays-classification-for-pneumonia-detection
+# Chest x-rays classification for pneumonia detection
 
 # Table of Contents
 
