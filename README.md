@@ -3,11 +3,10 @@
 # Table of Contents
 ## * Review of the Project
 
-## Summary
-     > Statement of the problem
-     > Solution
-
-## * Review of the Project
+## * Summary
+   ### ~ Statement of the problem
+   ### ~ Solution
+     
 ## * Project Environment Set Up
 
 ## * Dataset  
