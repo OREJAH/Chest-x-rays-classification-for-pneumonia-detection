@@ -1,8 +1,9 @@
 # Chest x-rays classification for pneumonia detection
 
 # Table of Contents
-
 ## * Review of the Project
+
+## Summary
 
 ## * Project Environment Set Up
 
