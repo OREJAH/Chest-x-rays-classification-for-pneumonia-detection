@@ -37,9 +37,9 @@ In this project, a binary classification model will be built using chest x-ray i
    ### ~ Statement of the problem
 Pneumonia is a contagious disease that has been observed to be the biggest cause of child death in Nigeria, killing more than 162,000 children under the age of five in 2018, of more than 18 children per hour.
 There is a lack of intensive longitudinal monitoring systems that helps in measuring the impact of preventive measures in children by addressing underlying causes of pneumonia. Similarly, there is a lack of strong and equitable health systems to adequately prevent, diagnose and treat pneumonia, and provide children with their basic human right to good-quality healthcare.
-As a result of the aforementioned observations, there is a need to build a classification model for pneumonia detection using x-rays.
 
    ### ~ Solution
+As a result of the aforementioned observations, there is a need to build a classification model for pneumonia detection.
 
 ## * Project Environment Set Up
 Google Colaboratory is a free online cloud-based Jupyter notebook environment where machine learning and deep learning models can be trained on CPUs, GPUs, and TPUs. Since the models that will be utilized in this project are large and may take a long time to execute on a standard CPU, I'll be making use of Colab's CUDA-enabled GPU to help the models get trained faster.
