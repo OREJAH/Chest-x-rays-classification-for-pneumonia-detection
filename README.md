@@ -22,7 +22,7 @@
 
 ## * Model Training
 
-## * Results Interpretation
+## * Model Evaluation on Test Dataset
 
 ## *  Recommendations
 <br>
@@ -116,7 +116,7 @@ Finally, we restore the tensor to its original label.
 
 After the **Get_dataset** function is constructed, and it accepts three arguments: image paths, labels, and the state of processing, which is either training or not, then, we use the *convert_to_tensor* method, thsi helps the list of paths and labels to be turned into tensorflow tensors. Next, for each path and label, we build a dataset object using *from_tensor_slices* method. Then zip the two dataset objects and apply random shuffle.
 
-To build the model, 
+*Image To build the model, 
 
     
 
@@ -124,13 +124,11 @@ To build the model,
 
 
 ## * Model Training
+*Image
 
 
 
-
-
-## * Results Interpretation
-
+## * Model Evaluation on Test Dataset
 
 
 
