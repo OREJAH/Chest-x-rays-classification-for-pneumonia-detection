@@ -129,7 +129,7 @@ After the **Get_dataset** function is constructed, and it accepts three argument
 
 
 ## * Model Evaluation on Test Dataset
-
+In preparation of testing the model on the dataset, the steps done during model training are also repeated, starting from collecting all data paths using pathlib object.
 
 
 ## *  Recommendations
