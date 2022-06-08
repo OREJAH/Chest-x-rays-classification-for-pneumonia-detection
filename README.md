@@ -134,10 +134,7 @@ In preparation of testing the model on the dataset, the steps done during model 
 
 
 ## *  Recommendations
-Trying more augmentations is a risky component of medical imaging, but it's a good way to improve the model. Selecting a safe augmentation that does not change the pixel values might be beneficial.
- 
- 
- 
+Trying more augmentations is a risky component of medical imaging, but it's a good way to improve the model. Selecting a safe augmentation that does not change the pixel values might be beneficial. More *callbacks* are effective in monitoring metrics and preventing overfitting of the model being trained.
  
 ## License
 
