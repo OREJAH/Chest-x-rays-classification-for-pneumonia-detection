@@ -124,7 +124,7 @@ After the **Get_dataset** function is constructed, and it accepts three argument
 
 
 ## * Model Training
-*Image
+
 
 
 
